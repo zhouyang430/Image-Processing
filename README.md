@@ -1,5 +1,3 @@
 # image-processing
-Matlab实现的可执行程序 实现ppm、pgm以及jpg等格式图像的基本处理 
+GUI program of the basic algorithm of digital image processing, realizing the basic processing of image reading and writing, scaling, rotating and tilting, as well as the low-pass filtering and rectangular filtering methods in image enhancement and smoothing; The gradient method is used to realize edge detection. The Sobel, Roberts and Prewitt operators are compared, and the Gaussian Laplace operator is also tried. At the same time, I understood the YUV format and image negative conversion while completing the experimental requirements. Finally, matlab is used to export the matlab built-in app and the executable files that can be installed and run independently.
 
-
-通过用matlab编写数字图像处理的基本算法GUI程序，实现对图像读写、缩放、旋转倾斜的基本处理，以及图像增强、平滑处理中的低通滤波和矩形滤波方法；用梯度方法实现边缘检测，比较了Sobel、Roberts和Prewitt算子的不同，也尝试了高斯拉普拉斯算子。同时在完成实验要求之余，了解了YUV格式和图像负片转化。最后，对图像用matlab导出了matlab内置app和可安装的独立运行的可执行文件。实验为了避免在matlab中出现乱码，GUI界面和代码注释都用采用英文。
